@@ -1,7 +1,7 @@
 # 地铁计算器  
 用于在上海地铁从车体号计算车号。  
 ## 截图  
-![一张截图.jpg](/pictures/p1.jpg) ![一张截图.jpg](/pictures/p2.jpg) ![一张截图.jpg](/pictures/p1.jpg)  
+![一张截图.jpg](/pictures/p1.jpg) ![一张截图.jpg](/pictures/p2.jpg) ![一张截图.jpg](/pictures/p3.jpg)  
 ## 编译  
 非常正常的安卓应用项目。  
 ## 功能  
