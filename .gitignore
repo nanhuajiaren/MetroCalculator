@@ -1,4 +1,5 @@
 build/
 bin/
 gen/
-libs/*.so
+obj/
+libs/*/*.so
